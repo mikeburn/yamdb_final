@@ -1,5 +1,7 @@
 ![YaMDb deploy](https://github.com/mikeburn/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg) 
  
+# Server
+http://51.250.24.168/api/v1/
   
 # My_YaMDb 
 This is a REST API project for the YaMDb service, which is a platform for collecting reviews of movies, books, or music. 
