@@ -66,4 +66,4 @@ cd api_yamdb && python manage.py loaddata ../infra/fixtures.json
 Stop the containers: 
 ```bash 
 docker-compose down -v 
-``` 
+```  
